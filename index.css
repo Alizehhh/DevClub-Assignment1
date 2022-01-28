@@ -1,0 +1,56 @@
+body{
+    max-width: 650px;
+    margin: 40px auto;
+}
+*{
+    background-color: aquamarine;
+    color: black;
+}
+h1{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: darkslategray;
+    line-height: 80px;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+h4{
+    font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Rubik Beastly', cursive;
+font-family: 'Supermercado One', cursive;
+color:darkblue;
+line-height: 100px;
+text-decoration: underline; 
+text-decoration-style: wavy;
+}
+h2{
+    font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Rubik Beastly', cursive;
+font-family: 'Supermercado One', cursive;
+color: darkblue;
+line-height: 150px;
+text-decoration: underline;
+text-decoration-style: wavy;
+}
+a{
+    color: brown;
+}
+marquee{
+    color: white;
+    background-color: crimson;
+}
+p{
+    color:black;
+    padding: right 200px;
+}
+footer{
+    color: black;
+    text-decoration: underline;
+    text-decoration-style: solid;
+}
+iframe{
+    height: 120%;
+    width: 120%;
+}
+
